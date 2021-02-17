@@ -1,0 +1,72 @@
+﻿nu.nl###header > DIV.block.toast.adblocker:last-child > DIV.block-content > P
+welivesecurity.com###endpage-box
+youtube.com###secondary
+youtube.com###subscribe-button
+youtube.com###hats-container
+nemokennislink.nl##div.page:nth-child(4) > div.data-pjax-container:last-child > div.news-pop-up:last-child
+askleo.com##.et_bloom_header_outer
+sourceforge.net##.goth-form
+facebook.com##._5hn6
+roadtovr.com##.mpp-wrap, .mpp-wrap-70084
+omroepvenlo.nl##.banner
+shirtshop.nl##div.wof-wheels:nth-child(3) > div.wof-wheel.wof-theme-christmas.wof-visible > div.wof-wrapper:last-child > div.wof-inner-wrapper:last-child
+homeseer.com##.modal, .modal-onload, .fade, .in
+shop.homeseer.com###lion-loyalty-panel-custom-css
+shop.homeseer.com###fsb_background
+shop.homeseer.com###qab_bar
+buienradar.nl###header > div.spec-block:nth-child(3)
+veiligheids-sloten.nl##div.cookie-usage:first-child
+forum.fibaro.com##.cAnnouncementPageTop, .ipsMessage, .ipsMessage_success
+t-mobile.nl##div.modal-backdrop.fade.show:last-child
+forum.fibaro.com###ipsLayout_header > div.cAnnouncements:first-child
+@@||steamcommunity.com^$important,document,~extension
+otto.nl###the-modal
+justanswer.com##div.th-chat-window.th-chat-google-reengagement-window.right-rail:last-child
+techopedia.com###subscriptionModal
+kunzmann.de###product_latest_bar
+buienradar.nl##div.onboard-popup-container:nth-child(13)
+buienradar.nl##div.onboard-background:last-child
+wired.com###app-root > div.app-shell-component.app-shell-component--article > div.page-loader-component:nth-child(4) > div.page-wrapper.page-wrapper--article.page-wrapper--default.page-wrapper--lede-photo > aside.paywall-container-component.paywall-container-component--growler:first-child > div.expandable-growler-wrapper.expandable-growler-wrapper__expanded:last-child
+weeronline.nl###root > div.wol-app-module__overlay-bar___1zJdn:first-child
+arattahome.com###side-icons
+1limburg.nl###cmp-faktor-io-parent
+realitytitbit.com##div.qc-cmp-ui-container.qc-cmp-showing:first-child
+realitytitbit.com###page-wrapper > div.GRVAd.leaderboard-fixed:nth-child(2)
+tweakers.net###didYouKnow > div
+techradar.com##div.region_redirect_popup:nth-child(30) > div.region_redirect_popup_asset
+domoticagigant.nl###notice-cookie-block
+robbshop.nl##div.avg-cookiebar:first-child
+ziggoforum.nl##div.u-bottomFixer.js-bottomFixTarget:nth-child(2) > ul.notices.notices--floating.js-notices > li.notice.js-notice.notice--accent
+@@||www.disneyplus.com^$important,document,~extension
+voordeligscheren.nl##div.avg-cookiebar:first-child
+anwb.nl##div.critical-dialog:nth-child(5)
+severeweather.wmo.int##div.wrapper:first-child > div.gdpr:last-child
+youtube.com##ytd-app:nth-child(3) > ytd-popup-container.style-scope.ytd-app:nth-child(13) > paper-dialog.style-scope.ytd-popup-container
+vimeo.com###main > div._1Rzf5 > div._2k3Uk._1UaXl:last-child
+linuxbsdos.com###elementor-popup-modal-39184
+bing.com##.b_hide, .bnp_btc
+tweakers.net###sjtpmE
+nl.wikipedia.org###centralNotice > div.frb.frb-nag.frb-rml-enabled:nth-child(4)
+nl.wikipedia.org###centralNotice
+ct.nl###modalbox
+tweakers.net##.mQxVrlq
+tweakers.net###contentArea > div.wrap > div.muIRniKN:first-child
+tweakers.net###YpFwhq
+tweakers.net###QtrEbvSgmv
+tweakers.net##.EOAdNeer
+tweakers.net##.fjcYITfo
+nu.nl###header > div.block.toast.adblocker:last-child
+techradar.com##div.region_redirect_popup.region_above_ad:nth-child(29) > div.region_redirect_popup_asset
+forum.fibaro.com###ipsLayout_header > div.cAnnouncements.cAnnouncementsFloat:first-child
+forum.fibaro.com###ips_uid_9711_3
+forum.fibaro.com##.cAnnouncements, .cAnnouncementsFloat
+||bbc.com###cookiePrompt
+||bbc.com###orb-modules
+boxcryptor.com###content > div > div > div._1xtuwnj._1ghrm4a-o_O-_15orvvj-o_O-_s1guw-o_O-_1ugueyy > div.mdl-layout.mdl-js-layout.mdl-layout--fixed-header.has-drawer.is-upgraded:last-child > div.mdl-layout__inner-container > div._eg1w6w:nth-child(3)
+bbc.co.uk###header-content > div.css-v17lp6-DialogBackdrop.exhqgzu5:first-child
+bbc.com##.css-v17lp6-DialogBackdrop, .exhqgzu5
+cv-onderdelen-jm.nl###react_element__cookiebar > div > div.sc-AxgMl.dIbjnZ.sc-fznNvL.iAszhc
+kobo.com##.gdpr-consent-wrap
+voc.nl##div:nth-child(11) > div.row > div.column
+voc.nl##.sidebar__container, .affix-top
+zerauto.nl###newsletterhub_subscribe
